@@ -2,14 +2,9 @@
 
 ### Command Install
 
-
-wget https://raw.githubusercontent.com/RolkosModai/Rolkos_Project/master/setup/install.sh; bash install.sh
 ```bash
-apt-get update -y && apt-get upgrade -y && 
-wget https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-FREE/master/Plus && 
-chmod 777 Plus && ./Plus
+wget https://raw.githubusercontent.com/RolkosModai/Rolkos_Project/master/setup/install.sh; bash install.sh
 ```
-
 
 ### Script Features
 • SSH & OpenVPN
