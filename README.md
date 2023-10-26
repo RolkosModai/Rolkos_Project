@@ -3,7 +3,7 @@
 ### Command Install
 
 ```bash
-wget https://raw.githubusercontent.com/RolkosModai/Rolkos_Project/master/setup/install.sh; bash install.sh
+wget https://raw.githubusercontent.com/RolkosModai/Rolkos_Project/master/setup/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 ### Script Features
