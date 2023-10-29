@@ -127,4 +127,4 @@ wget https://raw.githubusercontent.com/RolkosModai/Rolkos_Project/master/setup/i
 ------------
 **Telegram**
 ------------
-https://t.me/Asrolka
+https://t.me/Rolkosmod
